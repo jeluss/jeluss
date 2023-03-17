@@ -5,18 +5,14 @@
 <h3 align="center">A passionate backend developer</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeluss" alt="jeluss" /></a> </p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhMTYzMGRjNGM0MTExNmEwMjUzOGEwZmE3MDIyZTcxYTgzNTMxYyZjdD1n/3o85xp1xCrNmTeKedi/giphy.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeluss&label=Profile%20views&color=1d1f20&style=flat-square" alt="jeluss" /> </p>
-<p align="left"> <a href="https://twitter.com/jeluss" target="blank"><img src="https://img.shields.io/twitter/follow/jeluss?logo=twitter&style=for-the-badge" alt="jeluss" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jealeus" target="blank"><img src="https://img.shields.io/twitter/follow/jeluss?logo=twitter&style=for-the-badge" alt="jeluss" /></a> </p>
 
-- Synl.io [Management Panel](https://synl.io/)
-- ECBS [Entegre Çevre Bilgi Sistemi](https://ecbs.cevre.gov.tr/)
-- V.VİSKOZ [Company Backend](https://www.vimpi.com.tr/)
-- Portfolio [https://jeluss.com.tr/](https://jeluss.com.tr/)
-- Spotify [https://sptfy.com/jeluss](https://sptfy.com/jeluss)
+- Spotify [https://sptfy.com/jealeus](https://sptfy.com/jealeus)
 
 
-<img align="right" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhMTYzMGRjNGM0MTExNmEwMjUzOGEwZmE3MDIyZTcxYTgzNTMxYyZjdD1n/3o85xp1xCrNmTeKedi/giphy.gif">
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
 
 
 <h3 align="left">Connect with me:</h3>
