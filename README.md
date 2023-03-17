@@ -7,12 +7,16 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeluss&label=Profile%20views&color=1d1f20&style=flat-square" alt="jeluss" /> </p>
-<p align="left"> <a href="https://twitter.com/jealeus" target="blank"><img src="https://img.shields.io/twitter/follow/jeluss?logo=twitter&style=for-the-badge" alt="jeluss" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jeluss" target="blank"><img src="https://img.shields.io/twitter/follow/jeluss?logo=twitter&style=for-the-badge" alt="jeluss" /></a> </p>
 
-- Spotify [https://sptfy.com/jealeus](https://sptfy.com/jealeus)
+- Synl.io [Management Panel](https://synl.io/)
+- ECBS [Entegre Çevre Bilgi Sistemi](https://ecbs.cevre.gov.tr/)
+- V.VİSKOZ [Company Backend](https://www.vimpi.com.tr/)
+- Portfolio [https://jeluss.com.tr/](https://jeluss.com.tr/)
+- Spotify [https://sptfy.com/jeluss](https://sptfy.com/jeluss)
 
 
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
+<img align="right" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhMTYzMGRjNGM0MTExNmEwMjUzOGEwZmE3MDIyZTcxYTgzNTMxYyZjdD1n/3o85xp1xCrNmTeKedi/giphy.gif">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -39,7 +43,7 @@
 
 </br>
 
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315o64vsynlzkrl2zvwzkbcj5u6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 
 
