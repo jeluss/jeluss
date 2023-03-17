@@ -5,7 +5,7 @@
 <h3 align="center">A passionate backend developer</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeluss" alt="jeluss" /></a> </p>
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhMTYzMGRjNGM0MTExNmEwMjUzOGEwZmE3MDIyZTcxYTgzNTMxYyZjdD1n/3o85xp1xCrNmTeKedi/giphy.gif"  />
+<img align="right" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhMTYzMGRjNGM0MTExNmEwMjUzOGEwZmE3MDIyZTcxYTgzNTMxYyZjdD1n/3o85xp1xCrNmTeKedi/giphy.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeluss&label=Profile%20views&color=1d1f20&style=flat-square" alt="jeluss" /> </p>
 <p align="left"> <a href="https://twitter.com/jealeus" target="blank"><img src="https://img.shields.io/twitter/follow/jeluss?logo=twitter&style=for-the-badge" alt="jeluss" /></a> </p>
 
@@ -39,7 +39,7 @@
 
 </br>
 
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315o64vsynlzkrl2zvwzkbcj5u6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 
 
