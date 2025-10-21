@@ -5,20 +5,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJhMTYzMGRjNGM0MTExNmEwMjUzOGEwZmE3MDIyZTcxYTgzNTMxYyZjdD1n/3o85xp1xCrNmTeKedi/giphy.gif" width="300" alt="coding gif"/>
-</div>
-
-<br/>
-
-<div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=jeluss&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/jeluss)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/jealeus?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white)](https://twitter.com/jeluss)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://sptfy.com/jealeus)
+  ![Profile Views](https://komarev.com/ghpvc/?username=jeluss&label=Profile%20Views&color=6366f1&style=for-the-badge&initial=300)
   
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
@@ -38,7 +32,7 @@ const jealeus = {
 };
 ```
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +67,7 @@ const jealeus = {
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
@@ -86,7 +80,7 @@ const jealeus = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeluss&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎧 Now Playing on Spotify
 
@@ -94,7 +88,7 @@ const jealeus = {
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=315o64vsynlzkrl2zvwzkbcj5u6e&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6366f1&bar_color_cover=true" alt="Spotify Now Playing"/>
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 
@@ -102,7 +96,7 @@ const jealeus = {
   <img src="https://github-profile-trophy.vercel.app/?username=jeluss&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Graph
 
@@ -110,15 +104,15 @@ const jealeus = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeluss&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Connect With Me
 
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jeluss)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeluss)
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jealeuss)
+  [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://sptfy.com/jealeus)
   
 </div>
 
