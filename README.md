@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeâleus;Backend+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Jeâleus</h1>
+  <h3>Backend Developer | Open Source Enthusiast</h3>
 </div>
 
 <br/>
@@ -85,7 +86,9 @@ const jealeus = {
 ## 🎧 Now Playing on Spotify
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=315o64vsynlzkrl2zvwzkbcj5u6e&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6366f1&bar_color_cover=true" alt="Spotify Now Playing"/>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315o64vsynlzkrl2zvwzkbcj5u6e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=315o64vsynlzkrl2zvwzkbcj5u6e&redirect=true)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
