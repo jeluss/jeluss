@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=jeluss&label=Profile%20Views&color=6366f1&style=for-the-badge&initial=300)
+  ![Profile Views](https://komarev.com/ghpvc/?username=jeluss&label=Profile%20Views&color=6366f1&style=for-the-badge&initial=50300)
   
 </div>
 
