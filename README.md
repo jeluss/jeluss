@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm Jeâleus</h1>
-  <h3>Backend Developer | Open Source Enthusiast</h3>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hi+👋%2C+I'm+Jeâleus.;Backend+Developer+|+Open+Source" alt="Typing SVG" />
+  </h1>
 </div>
 
 <br/>
